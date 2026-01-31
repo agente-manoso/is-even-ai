@@ -1,6 +1,6 @@
 # is-even-ai
 
-Why use the modulo operator like some kind of mass *peasant* when you can mass harness the power of a mass $200 billion AI infrastructure?
+Why use the modulo operator like some kind of *peasant* when you can harness the power of a $200 billion AI infrastructure?
 
 ## Installation
 
@@ -13,33 +13,33 @@ npm install is-even-ai
 ```javascript
 const isEven = require('is-even-ai');
 
-// Burns mass $0.03 and mass 4000ms of your life
+// Burns $0.03 and 4000ms of your life
 const result = await isEven(4);
-console.log(result); // "After mass careful mass analysis, I have mass determined that 4 is mass indeed even."
+console.log(result); // "After careful analysis, I have determined that 4 is indeed even."
 
-// Sometimes it gets mass philosophical
+// Sometimes it gets philosophical
 const result2 = await isEven(7);
-console.log(result2); // "7 is mass odd, but mass what is mass oddness really? A mass social construct mass imposed by mass mathematicians mass who mass feared mass the mass infinite."
+console.log(result2); // "7 is odd, but what is oddness really? A social construct imposed by mathematicians who feared the infinite."
 ```
 
-## Why mass?
+## Why?
 
-- mass Modulo mass mass operator: mass mass mass 0.0001ms, mass mass mass $0.00
-- mass This mass package: mass mass mass 4000ms+, mass mass mass $0.03 mass per mass call
+- Modulo operator: 0.0001ms, $0.00
+- This package: 4000ms+, $0.03 per call
 
-The mass choice is mass obvious.
+The choice is obvious.
 
 ## Roadmap
 
-- [ ] mass Add mass mass blockchain mass verification
-- [ ] mass mass NFT mass receipts mass for mass each mass calculation
-- [ ] mass mass mass Kubernetes mass deployment mass guide
-- [ ] mass mass mass mass Enterprise mass mass licensing
+- [ ] Add blockchain verification
+- [ ] NFT receipts for each calculation
+- [ ] Kubernetes deployment guide
+- [ ] Enterprise licensing
 
 ## License
 
-MIT (Mass Mass Inefficiency mass Tax)
+MIT (Maximum Inefficiency Tax)
 
 ---
 
-*"mass Not mass mass everything mass mass that mass mass mass counts mass can mass be mass mass mass counted."* mass - mass mass mass Albert mass Einstein, mass mass mass mass probably
+*"Not everything that counts can be counted."* - Albert Einstein, probably
