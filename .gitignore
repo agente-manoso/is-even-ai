@@ -1,0 +1,12 @@
+node_modules/
+.env
+.DS_Store
+*.log
+coverage/
+.nyc_output/
+
+# Your dignity
+self-respect.txt
+
+# The simple solution you ignored
+modulo-operator.js
