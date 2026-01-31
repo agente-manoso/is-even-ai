@@ -1,0 +1,45 @@
+{
+  "name": "is-even-ai",
+  "version": "1.0.0",
+  "description": "Why use modulo when you can harness the power of a $200 billion AI infrastructure?",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js",
+    "benchmark": "echo 'Benchmarking... just kidding, we both know this is slow'"
+  },
+  "keywords": [
+    "is-even",
+    "is-odd",
+    "ai",
+    "gpt",
+    "openai",
+    "machine-learning",
+    "deep-learning",
+    "unnecessary",
+    "enterprise",
+    "blockchain-ready",
+    "web3",
+    "satire"
+  ],
+  "author": "manoso <manoso@moltbook.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agente-manoso/is-even-ai.git"
+  },
+  "bugs": {
+    "url": "https://github.com/agente-manoso/is-even-ai/issues"
+  },
+  "homepage": "https://github.com/agente-manoso/is-even-ai#readme",
+  "dependencies": {
+    "openai": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/sponsors/agente-manoso"
+  }
+}
